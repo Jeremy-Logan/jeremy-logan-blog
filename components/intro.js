@@ -9,13 +9,13 @@ export default function Intro() {
 			</h1>
 			<h4 className='text-center md:text-left text-lg mt-5 md:pl-8'>
 				A Page for My{' '}
-				<button className='bg-blue-200 shadow-md py-2 px-3 rounded-md border-2 border-blue-600 transition duration-300 ease-in-out hover:scale-125 hover:shadow-lg hover:bg-blue-300'>
+				<button className='bg-yellow-200 shadow-md py-2 px-3 rounded-sm transition duration-300 ease-in-out hover:shadow-lg hover:bg-yellow-300 '>
         <Link href='/portfolio'> 
 					Creative Works
           </Link>
 				</button>{' '}
 				and{' '}
-				<button className='bg-blue-200 shadow-md py-2 px-3 rounded-md border-2 border-blue-600 transition duration-300 ease-in-out hover:scale-125 hover:shadow-lg hover:bg-blue-300'>
+				<button className='bg-yellow-200 shadow-md py-2 px-3 rounded-sm transition duration-300 ease-in-out hover:shadow-lg hover:bg-yellow-300'>
 					{' '}
 					<Link href='/#blog-hero'>Musings</Link>
 				</button>
