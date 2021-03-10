@@ -9,7 +9,7 @@ export default function Intro() {
 			</h1>
 			<h4 className='text-center md:text-left text-lg mt-5 md:pl-8'>
 				A Page for My{' '}
-				<button className='bg-yellow-200 shadow-md py-2 px-3 rounded-sm transition duration-300 ease-in-out hover:shadow-lg hover:bg-yellow-300 '>
+				<button className='bg-yellow-200 shadow-md py-2 px-3 rounded-sm transition duration-300 ease-in-out hover:shadow-lg hover:bg-yellow-300'>
         <Link href='/portfolio'> 
 					Creative Works
           </Link>
